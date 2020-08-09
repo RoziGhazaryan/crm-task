@@ -1,0 +1,12 @@
+.sidebar {
+    background: #2C323F;
+}
+
+.sidebar ul li svg {
+    width: 16px;
+    height: 16px;
+}
+
+.sidebar ul li i {
+    font-weight: 600;
+}
